@@ -182,6 +182,7 @@
 | [Google Fonts](https://fonts.google.com) | Free, open-source fonts | 🆓 |
 | [Unsplash](https://unsplash.com) | Free high-quality photos | 🆓 |
 | [Laws of UX](https://lawsofux.com) | Psychology principles behind good design | 🆓 |
+| [ASCII Images](https://ascii-images.com/image-to-ascii) | Convert images to ASCII artwork without an account. | 🆓 |
 
 <p align="right"><a href="#-awesome-web-vault">⬆️ Back to top</a></p>
 
