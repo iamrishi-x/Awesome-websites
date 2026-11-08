@@ -167,6 +167,7 @@
 | [Wolfram Alpha](https://www.wolframalpha.com) | Computational answer engine | 💎 |
 | [Khan Academy Math](https://www.khanacademy.org/math) | Math from basics to college level | 🆓 |
 | [Brilliant](https://brilliant.org) | Interactive problem-solving courses | 💰 |
+| [Calculation Hub Percentage Calculator](https://calculation-hub.com/math/percentage) | Calculate percentages and percentage change with formula explanations | 🆓 |
 
 <p align="right"><a href="#-awesome-web-vault">⬆️ Back to top</a></p>
 
