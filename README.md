@@ -182,6 +182,7 @@
 | [Google Fonts](https://fonts.google.com) | Free, open-source fonts | 🆓 |
 | [Unsplash](https://unsplash.com) | Free high-quality photos | 🆓 |
 | [Laws of UX](https://lawsofux.com) | Psychology principles behind good design | 🆓 |
+| [Cursive Generation Cursive Generator](https://cursive-generation.com/cursive-generator) | Render script-font lettering artwork | 🆓 |
 
 <p align="right"><a href="#-awesome-web-vault">⬆️ Back to top</a></p>
 
