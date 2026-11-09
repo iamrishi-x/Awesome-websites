@@ -35,6 +35,7 @@
 | ☁️ [Cloud & DevOps](#️-cloud--devops) | 📊 [Data Science](#-data-science) | 🧮 [Mathematics](#-mathematics) |
 | 🖌️ [Design](#️-design) | ⚡ [Productivity & Tools](#-productivity--tools) | 📚 [Free Learning](#-free-learning) |
 | 💼 [Career & Interviews](#-career--interviews) | 📰 [Tech News](#-tech-news) | ➕ [How to Add a Link](#-how-to-add-a-link) |
+| 🎮 [Gaming Tools](#-gaming-tools) | | |
 
 ---
 
@@ -238,6 +239,16 @@
 | [The Verge](https://www.theverge.com) | Consumer tech news & reviews | 🆓 |
 | [Ars Technica](https://arstechnica.com) | In-depth technology journalism | 🆓 |
 | [daily.dev](https://daily.dev) | Personalized developer news feed | 🆓 |
+
+<p align="right"><a href="#-awesome-web-vault">⬆️ Back to top</a></p>
+
+---
+
+## 🎮 Gaming Tools
+
+| Website | Description | Tag |
+|:--------|:------------|:---:|
+| [AzerothSurvivors.app](https://azerothsurvivors.app/build-calculator/) | Free fan build planner for Aethus's Azeroth Survivors. | 🆓 |
 
 <p align="right"><a href="#-awesome-web-vault">⬆️ Back to top</a></p>
 
