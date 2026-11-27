@@ -197,6 +197,7 @@
 | [Obsidian](https://obsidian.md) | Local-first linked note-taking | 🆓 |
 | [Regex101](https://regex101.com) | Build and test regular expressions | 🆓 |
 | [Carbon](https://carbon.now.sh) | Beautiful images of your source code | 🆓 |
+| [StagePeek](https://stagepeek.live) | Interactive 3D concert & stadium seat view previewer | 💎 |
 
 <p align="right"><a href="#-awesome-web-vault">⬆️ Back to top</a></p>
 
